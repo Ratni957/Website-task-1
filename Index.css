@@ -1,0 +1,51 @@
+.box{
+    padding:40px
+
+}
+.topic{
+    background-color:rgb(93, 118, 93);
+    align-content: left;
+    color: white;
+    height: 60px;
+    padding: 15px 40px;
+    
+}
+.color{
+    background-color: rgb(164, 163, 163);
+    height: 600px;
+    width: 950px;
+    padding:15px 40px;
+}
+
+.search{
+    background-color:rgb(53, 47, 47);
+    height: 40px;
+    padding: 10px 10px;
+    border-radius: 10px ;
+    margin:20px 300px;
+    color: rgb(226, 224, 224);
+}
+.col-md-2{
+    background-color:rgb(37, 33, 33);
+    height: 120px;
+    width: 60px;
+    margin: 100px 40px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    relative-position:left;
+ 
+}
+.col-md-3{
+    background-color:rgb(53, 47, 47);
+    height: 450px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.col-md-9{
+    background-color:rgb(53, 47, 47);
+    height: 100px;
+    border-radius: 10px;
+    margin: 10px 10px;
+}
+    
